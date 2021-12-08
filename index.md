@@ -35,7 +35,7 @@ I am starting community project ...
 # Goal
 
 - build start point.
-- you can call it "void begginer friendly overlay"
+- you can call it `void begginer friendly overlay`
 - full-featured desktop operation system for anyone.
 
 # How ?
