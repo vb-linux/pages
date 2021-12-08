@@ -68,7 +68,7 @@ Soon in your computers ...
 
 Stay in touch ...
 
-zenobit (oSoWoSo)[https://github.com/oSoWoSo]
+zenobit [oSoWoSo](https://github.com/oSoWoSo)
 
 # LICENSE
 FOSS project under EUPL 1.2 license
