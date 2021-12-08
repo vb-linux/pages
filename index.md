@@ -4,7 +4,7 @@
 
  [Void linux](https://voidlinux.org/) is best linux distribution out there.
 
- With one exception. No that easy for linux or computer begginers.
+ With one exception. Not that easy for linux or computer begginers.
  
  (like could be)
 
