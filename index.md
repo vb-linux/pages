@@ -21,7 +21,9 @@ Why void linux hadn't ?
 
 ## And here I came...
 
-For me is void first linux distribuion which is easy to understand and manage, together with enough recent versions of packages and stability.
+For me is void first linux distribuion which is easy to understand and manage.
+
+Together with enough recent versions of packages and stability.
 
 so
 
