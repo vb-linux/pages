@@ -20,9 +20,11 @@ A lot of distribution based on debian or arch ...
 
 ## And here I came ...
 
-For me is void first linux distribuion which is easy to understand and manage.
+Void is first linux distribution which is easy to understand and manage.
 
 Together with enough recent versions of packages and stability.
+
+...
 
 So let's endors [void](https://voidlinux.org/) a bit ...
 
@@ -45,12 +47,15 @@ easy
 - provide installation media
 - provide this website
 - provide community repository called simply VUR
+- [unix](https://en.wikipedia.org/wiki/Unix_philosophy) and [KISS](https://en.wikipedia.org/wiki/KISS_principle) principle
+- endorse privacy, security and federation
 - creating FOSS world bigger together
 - and have fun
 
 # Why ?
 
-- because a lot of usefull apps can't be merged into void repos. (for good reasons)
+- because a lot of usefull apps can't be merged into void repos.
+- (for good reasons)
 - promote GNU/linux and FOSS in general
 - learn more
 - because we can ...
