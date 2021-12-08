@@ -26,7 +26,7 @@ so
 
 # **vb-linux/GNU**
 
-I am starting community project and hoped that will survive.
+I am starting community project and hoped that will survive after me.
 
 # Goal
 
