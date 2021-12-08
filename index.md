@@ -1,7 +1,7 @@
 
 # Welcome to **vb** **linux** pages
 
-[Link](url) and ![Image](src)
+![logo](/assets)
 
 Why vb linux? Because I think that [void linux](https://voidlinux.org/) is best linux out there.
 
@@ -33,7 +33,11 @@ Build start point, full-featured desktop operation system for anyone.
 
 ## Interested ?
 
-Stay at touch...
+Soon in your computers...
+
+:D
+
+Stay in touch...
 
 # LICENSE
 FOSS project under EUPL 1.2 license
