@@ -1,8 +1,6 @@
-
+![logo](/assets)
 # Welcome to **vb**-**linux** pages
       We used arch BTW :D
-
-![logo](/assets)
 
 Why vb-linux? Because I think that [void linux](https://voidlinux.org/) is best linux out there.
 
