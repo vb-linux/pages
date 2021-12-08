@@ -53,6 +53,7 @@ easy
 
 - because a lot of usefull apps can't be merged into void repos.
 - (for good reasons)
+- help promote excellent void linux
 - help promote privacy, security and federation
 - help promote GNU/linux and FOSS in general
 - help create FOSS world bigger
