@@ -2,9 +2,11 @@
 # Welcome to **vb**-**linux** pages
       We used arch BTW :D
 
-Why vb-linux? Because I think that [void linux](https://voidlinux.org/) is best linux out there.
+Why vb-linux? Because I think that [void linux](https://voidlinux.org/) is best linux distribution out there.
 
- With one exception. For linux or computer begginers isn't easy at all.
+ With one exception. No that easy for linux or computer begginers.
+ 
+ (like could be)
 
 ### What about Project Trident ?
 
@@ -22,15 +24,17 @@ For me is void first linux distribuion which is easy to understand and manage.
 
 Together with enough recent versions of packages and stability.
 
-so
+so let's endors [void](https://voidlinux.org/) a bit
 
 # **vb-linux/GNU**
 
-I am starting community project and hoped that will survive after me.
+I am starting community project ...
 
 # Goal
 
-Build start point, full-featured desktop operation system for anyone.
+Build start point.
+You can call it void begginer friendly overlay
+Full-featured desktop operation system for anyone.
 
 # How ?
 
@@ -40,7 +44,6 @@ easy
 
 - provide installation media
 - provide this website
-- provide easy enough desktop os for anyone
 - provide community repository called simply VUR
 - creating FOSS world bigger together
 - and have fun
@@ -50,7 +53,7 @@ easy
 - because a lot of usefull apps can't be merged into void repos. (for good reasons)
 - promote GNU/linux and FOSS in general
 - learn more
-- because we can
+- because we can...
 
 ## Interested ?
 
