@@ -47,7 +47,7 @@ easy
 - provide installation media
 - provide this website
 - provide community repository called simply VUR
-- [unix](https://en.wikipedia.org/wiki/Unix_philosophy) and [KISS](https://en.wikipedia.org/wiki/KISS_principle) principle
+- thanks to [unix](https://en.wikipedia.org/wiki/Unix_philosophy) and [KISS](https://en.wikipedia.org/wiki/KISS_principle) principle
 
 # Why ?
 
