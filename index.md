@@ -1,7 +1,6 @@
 ![logo](/assets)
 # Welcome to **vb**-**linux** pages
       We used arch BTW :D
-
 Why vb-linux? Because I think that [void linux](https://voidlinux.org/) is best linux out there.
 
 With one exception. For linux or computer begginers isn't easy at all.
