@@ -46,7 +46,7 @@ easy
 
 - provide installation media
 - provide this website
-- provide community repository called simply VUR
+- provide community repository called simply [VUR](https://github.com/vb-linux/VUR)
 - thanks to [unix](https://en.wikipedia.org/wiki/Unix_philosophy) and [KISS](https://en.wikipedia.org/wiki/KISS_principle) principle
 
 # Why ?
