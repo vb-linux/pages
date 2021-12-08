@@ -2,7 +2,7 @@
 # Welcome to **vb**-**linux** pages
       We used arch BTW :D
 
- I think that [void linux](https://voidlinux.org/) is best linux distribution out there.
+ [Void linux](https://voidlinux.org/) is best linux distribution out there.
 
  With one exception. No that easy for linux or computer begginers.
  
