@@ -1,3 +1,8 @@
+<div id="davoid">
+	<img class="bg img-responsive christmas-mode" alt="void logo" src="/assets/img/void_bg_christmas.png">
+	<img class="fg img-responsive christmas-mode" alt="void logo" src="/assets/img/void_fg_christmas.png" style="margin:-38px 0;">
+</div>
+
 ![logo](/assets)
 # Welcome to **vb**-**linux** temporary web
       We used arch BTW :D
