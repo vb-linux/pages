@@ -1,9 +1,9 @@
 
-# Welcome to **vb** **linux** pages
+# Welcome to **vb**-**linux** pages
 
 ![logo](/assets)
 
-Why vb linux? Because I think that [void linux](https://voidlinux.org/) is best linux out there.
+Why vb-linux? Because I think that [void linux](https://voidlinux.org/) is best linux out there.
 
 With one exception. For linux or computer begginers isn't easy at all.
 
@@ -17,8 +17,6 @@ I admire hard work of void developers and contributors
 
 A lot of distribution based on debian or arch..
 
-Why void linux hadn't ?
-
 ## And here I came...
 
 For me is void first linux distribuion which is easy to understand and manage.
@@ -26,6 +24,8 @@ For me is void first linux distribuion which is easy to understand and manage.
 Together with enough recent versions of packages and stability.
 
 so
+
+   # **vb-linux**
 
 I am starting community project and hoped that will survive.
 
