@@ -10,7 +10,7 @@
 
 ### What about Project Trident ?
 
-[Project Trident](https://project-trident.org) heading to the end.
+[Project Trident](https://project-trident.org) sadly heading to the end.
 
 Looks like nothing based on void anywhere ...
 
