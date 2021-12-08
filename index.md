@@ -50,7 +50,7 @@ easy
 
 Soon in your computers...
 
-We used arch BTW :D
+ BTW :D
 
 Stay in touch...
 
