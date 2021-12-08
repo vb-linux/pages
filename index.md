@@ -1,9 +1,4 @@
-<div id="davoid">
-	<img class="bg img-responsive christmas-mode" alt="void logo" src="/assets/img/void_bg_christmas.png">
-	<img class="fg img-responsive christmas-mode" alt="void logo" src="/assets/img/void_fg_christmas.png" style="margin:-38px 0;">
-</div>
-
-![logo](/assets)
+![void](/assets/img/void_bg_christmas.png)
 # Welcome to **vb**-**linux** temporary web
       We used arch BTW :D
 
@@ -29,9 +24,9 @@ Void is first linux distribution which is still easy to understand and manage.
 
 Together with enough recent versions of packages and stability.
 
-...
-
 So let's endorse [void](https://voidlinux.org/) a bit ...
+
+![void](/assets/img/void_fg_christmas.png)
 
 # **vb-linux/GNU**
 
@@ -74,6 +69,8 @@ Soon in your computers ...
 Stay in touch ...
 
 zenobit [oSoWoSo](https://github.com/oSoWoSo)
+
+![merry christmas](/assets/img/void_bg_christmas.png)
 
 # LICENSE
 FOSS project under EUPL 1.2 license
