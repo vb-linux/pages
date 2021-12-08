@@ -48,17 +48,17 @@ easy
 - provide this website
 - provide community repository called simply VUR
 - [unix](https://en.wikipedia.org/wiki/Unix_philosophy) and [KISS](https://en.wikipedia.org/wiki/KISS_principle) principle
-- endorse privacy, security and federation
-- creating FOSS world bigger together
-- and have fun
 
 # Why ?
 
 - because a lot of usefull apps can't be merged into void repos.
 - (for good reasons)
-- promote GNU/linux and FOSS in general
+- help promote privacy, security and federation
+- help promote GNU/linux and FOSS in general
+- help create FOSS world bigger
+- because we can
 - learn more
-- because we can ...
+- have fun
 
 ## Interested ?
 
