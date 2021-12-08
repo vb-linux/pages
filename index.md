@@ -4,7 +4,7 @@
 
 Why vb-linux? Because I think that [void linux](https://voidlinux.org/) is best linux out there.
 
-With one exception. For linux or computer begginers isn't easy at all.
+ With one exception. For linux or computer begginers isn't easy at all.
 
 ### What about Project Trident ?
 
@@ -12,7 +12,7 @@ With one exception. For linux or computer begginers isn't easy at all.
 
 Looks like nothing based on void anywhere...
 
-I admire hard work of void developers and contributors
+**I admire hard work of void developers and contributors**
 
 A lot of distribution based on debian or arch..
 
@@ -47,9 +47,10 @@ easy
 
 # Why ?
 
-Because a lot of usefull apps can't be merged into void repos.
-(for good reasons)
-
+- because a lot of usefull apps can't be merged into void repos. (for good reasons)
+- promote GNU/linux and FOSS in general
+- learn more
+- because we can
 
 ## Interested ?
 
