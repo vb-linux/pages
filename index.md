@@ -1,5 +1,5 @@
 ![logo](/assets)
-# Welcome to **vb**-**linux** pages
+# Welcome to **vb**-**linux** temporary web
       We used arch BTW :D
 
  [Void linux](https://voidlinux.org/) is best linux distribution out there.
