@@ -20,7 +20,7 @@ A lot of distribution based on debian or arch ...
 
 ## And here I came ...
 
-Void is first linux distribution which is easy to understand and manage.
+Void is first linux distribution which is still easy to understand and manage.
 
 Together with enough recent versions of packages and stability.
 
