@@ -2,7 +2,7 @@
 # Welcome to **vb**-**linux** pages
       We used arch BTW :D
 
-Why vb-linux? Because I think that [void linux](https://voidlinux.org/) is best linux distribution out there.
+ I think that [void linux](https://voidlinux.org/) is best linux distribution out there.
 
  With one exception. No that easy for linux or computer begginers.
  
@@ -62,6 +62,8 @@ Soon in your computers ...
  BTW :D
 
 Stay in touch ...
+
+zenobit (oSoWoSo)[https://github.com/oSoWoSo]
 
 # LICENSE
 FOSS project under EUPL 1.2 license
