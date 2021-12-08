@@ -45,6 +45,12 @@ easy
 - creating FOSS world bigger together
 - and have fun
 
+# Why ?
+
+Because a lot of usefull apps can't be merged into void repos.
+(for good reasons)
+
+
 ## Interested ?
 
 Soon in your computers...
