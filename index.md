@@ -44,7 +44,8 @@ easy
 - provide this website
 - provide easy enough desktop os for anyone
 - provide community repository called simply VUR
-- 
+- creating FOSS world bigger together
+- and have fun
 
 ## Interested ?
 
