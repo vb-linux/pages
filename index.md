@@ -1,5 +1,6 @@
 
 # Welcome to **vb**-**linux** pages
+      We used arch BTW :D
 
 ![logo](/assets)
 
@@ -25,7 +26,7 @@ Together with enough recent versions of packages and stability.
 
 so
 
-   # **vb-linux**
+# **vb-linux**
 
 I am starting community project and hoped that will survive.
 
@@ -33,11 +34,23 @@ I am starting community project and hoped that will survive.
 
 Build start point, full-featured desktop operation system for anyone.
 
+# How ?
+
+You didn't know void yet don't you?
+
+easy
+
+- provide installation media
+- provide this website
+- provide easy enough desktop os for anyone
+- provide community repository called simply VUR
+- 
+
 ## Interested ?
 
 Soon in your computers...
 
-:D
+We used arch BTW :D
 
 Stay in touch...
 
