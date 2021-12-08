@@ -24,7 +24,7 @@ Together with enough recent versions of packages and stability.
 
 so
 
-# **vb-linux**
+# **vb-linux/GNU**
 
 I am starting community project and hoped that will survive.
 
