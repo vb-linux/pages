@@ -36,7 +36,8 @@ I am starting community project ...
 
 - build start point.
 - you can call it `void begginer friendly overlay`
-- full-featured desktop operation system for anyone.
+- full-featured desktop operation system for x86_64.
+- (possible aarch64)
 
 # How ?
 
