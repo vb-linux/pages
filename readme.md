@@ -1,5 +1,5 @@
 ![void](/assets/img/void_bg_christmas.png)
-# Welcome to **vb**-**linux** temporary web
+# Welcome to **vb**-**linux** website
       We used arch BTW :D
 
  [Void linux](https://voidlinux.org/) is best linux distribution out there.
