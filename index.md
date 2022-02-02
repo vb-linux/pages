@@ -1,8 +1,33 @@
+# NEW SITE HERE: [vb](https://osowoso.xyz/vb-linux.html)
+
 ![void](/assets/img/void_bg_christmas.png)
-# Welcome to **vb**-**linux** temporary web
+
+# Welcome to **vb**-**linux** old temporary website
       We used arch BTW :D
 
- [Void linux](https://voidlinux.org/) is best linux distribution out there.
+# PROJECT LINKS:
+ 
+<a href="https://sourceforge.net/p/vb-linux/"><img alt="Download vb-linux" src="https://sourceforge.net/sflogo.php?type=17&group_id=3476392" width=200></a>
+
+## DOWNLOADS:
+yet ipfs only..
+
+[ipfs](https://ipfs.io/ipfs/Qmeh3NedfbmnTzL6cyTikev6pyLoSKx1fvwp1Lu88JWq6f)
+
+sourceforge
+
+[![sourceforge](https://img.shields.io/sourceforge/dt/vb-linux.svg)](https://sourceforge.net/projects/vb-linux/files/latest/download)
+
+ First release!
+ 02.02.2022
+ version Alpha 0.1
+ 
+## Expect bugs, not finished features and a lot incoming changes...
+
+
+##
+
+[Void linux](https://voidlinux.org/) is best linux distribution out there.
 
  With one exception. Not that easy for linux or computer begginers.
  
@@ -35,7 +60,7 @@ I am starting community project ...
 # Goal
 
 - build start point.
-- you can call it `void begginer friendly overlay` on top of excellent void linux 
+- you can call it `void begginer friendly overlay`
 - full-featured desktop operation system for anyone.
 
 # How ?
@@ -63,15 +88,12 @@ easy
 
 ## Interested ?
 
-Soon in your computers ...
-
- BTW :D
-
-Stay in touch ...
-
-zenobit [oSoWoSo](https://github.com/oSoWoSo)
+zenobit from [oSoWoSo](https://osowoso.xyz)
 
 ![merry christmas](/assets/img/void_bg_christmas.png)
 
 # LICENSE
-FOSS project under EUPL 1.2 license
+FOSS project licensed under
+[EUPL 1.2](https://joinup.ec.europa.eu/collection/eupl/eupl-text-eupl-12)
+
+[back](./)
